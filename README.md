@@ -1,4 +1,4 @@
-# docker_images
+# Docker Images
 
 A repository of docker compose files to remember the most common Docker images.
 
